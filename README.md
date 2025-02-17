@@ -24,6 +24,12 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 5. **Capturing Recording** - cross-platform recording the user's screen, audio, etc
 6. **Avoiding lock-in** - avoid lock-in and stay flexible
 
+# Stages
+1. **Capture** - Ingest raw data from the source
+2. **Pre-Process** - Clean, enrich, transform the data
+3. **Contextualize** - Add meaning to the data. Merge different sources, do enrichment like entity recognition & aggregation.
+4. **Act** - Use the data to take action, optionally store it for later.
+
 # Interesting Links
 
 ## (Computer Screen) Vision Models 
@@ -39,12 +45,8 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 ## Benchmarking
 - https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/
 
-
-# Stages
-1. **Capture** - Ingest raw data from the source
-2. **Pre-Process** - Clean, enrich, transform the data
-3. **Contextualize** - Add meaning to the data. Merge different sources, do enrichment like entity recognition & aggregation.
-4. **Act** - Use the data to take action, optionally store it for later.
+## Testing & Evaluation
+- "Taking the pain out of screenshot AI testing" - We don't want to record the same screen over and over again. Instead for developer convenience we want to record the screen once and reuse it. This allows us to test and evaluate different pipelines, models, prompts etc. but also ensure quality with production systems. One inspiration for this is https://roark.ai which does it for voice
 
 # Sources
 ## Outputs OS Streams 
