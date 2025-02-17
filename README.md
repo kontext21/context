@@ -11,6 +11,35 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 
 **Now is the right time.** If you are an innovator and excited about empowering your user with context, you came to the right place.
 
+ # Developer Painpoints
+
+ When developing context aware applications, one have to deal with a lot of pain points. 
+
+1. **Discovery & validation** - Keeping up with what’s possible & Setting up experimentation 
+1. **Privacy & Compliance** - Ensure user trust & compliance with regulations
+2. **Performance** - Faster is better
+3. **Cost** - LLMs are expensive - Here is our [cost calculator](https://docs.google.com/spreadsheets/d/16-K-vLpqvAxRUBy4ppqjMmPJyQwZ4E0wxevJdWcmzP4/edit?usp=sharing)
+7. **Quality Testing & Evaluation** - You need to test and evaluate the quality of your application
+4. **Deployment** - You need to deploy your application and keep it running
+5. **Capturing Recording** - cross-platform recording the user's screen, audio, etc
+6. **Avoiding lock-in** - avoid lock-in and stay flexible
+
+# Interesting Links
+
+## (Computer Screen) Vision Models 
+- [Google AI Studio Live](https://aistudio.google.com/live) to stream your screen  
+- Mistral Pixtral
+- OpenAI
+- Meta 3.2 Vision
+- https://github.com/microsoft/OmniParser & https://huggingface.co/microsoft/OmniParser-v2.0
+
+## Computer Use
+- Anthropic Computer Use
+
+## Benchmarking
+- https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/
+
+
 # Stages
 1. **Capture** - Ingest raw data from the source
 2. **Pre-Process** - Clean, enrich, transform the data
