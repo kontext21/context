@@ -41,6 +41,10 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 
 ## Computer Use
 - Anthropic Computer Use
+- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/)
+- [Nayla Browser](https://naylabrowser.com/)
+- [Proxy 1.0](https://www.producthunt.com/posts/proxy-1-0)
+- OpenAI Operator
 
 ## Benchmarking
 - https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/
