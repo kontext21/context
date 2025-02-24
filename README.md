@@ -39,9 +39,10 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 - Meta 3.2 Vision
 - https://github.com/microsoft/OmniParser & https://huggingface.co/microsoft/OmniParser-v2.0
 
-## Computer Use
+## Computer Use & Browser Use
 - Anthropic Computer Use
 - [Google Project Mariner](https://deepmind.google/technologies/project-mariner/)
+- https://github.com/browser-use/browser-use
 - [Nayla Browser](https://naylabrowser.com/)
 - [Proxy 1.0](https://www.producthunt.com/posts/proxy-1-0)
 - OpenAI Operator
