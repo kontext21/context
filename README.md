@@ -50,6 +50,11 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 ## Benchmarking
 - https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/
 
+## Datasets
+- **RICO Dataset**: This dataset comprises approximately 66,000 screenshots from 9,300 Android apps across 27 categories. While it primarily focuses on mobile applications, it has been widely used for screen content understanding and could offer insights applicable to desktop applications. ([arxiv.org](https://arxiv.org/html/2209.08199v4?utm_source=chatgpt.com))
+- **ScreenQA Dataset**: Introduced in the paper "ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots," this dataset contains around 86,000 question-answer pairs collected from approximately 35,000 screenshots derived from the RICO dataset. Although centered on mobile app screenshots, the methodologies employed might be adaptable for desktop application contexts. ([github.com](https://github.com/google-research-datasets/screen_qa?utm_source=chatgpt.com))
+- **CIRCL Images AIL Dataset**: Offered by the Computer Incident Response Center Luxembourg (CIRCL), this dataset includes images such as photos and screenshots of websites. While it may not specifically target standard software applications, it could serve as a supplementary resource. ([circl.lu](https://www.circl.lu/opendata/circl-ail-dataset-01/?utm_source=chatgpt.com))
+
 ## Testing & Evaluation
 - "Taking the pain out of screenshot AI testing" - We don't want to record the same screen over and over again. Instead for developer convenience we want to record the screen once and reuse it. This allows us to test and evaluate different pipelines, models, prompts etc. but also ensure quality with production systems. One inspiration for this is https://roark.ai which does it for voice
 
