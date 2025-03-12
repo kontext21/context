@@ -38,6 +38,7 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 - OpenAI
 - Meta 3.2 Vision
 - https://github.com/microsoft/OmniParser & https://huggingface.co/microsoft/OmniParser-v2.0
+- [Phi-4-multimodal](https://techcommunity.microsoft.com/blog/educatordeveloperblog/welcome-to-the-new-phi-4-models---microsoft-phi-4-mini--phi-4-multimodal/4386037)
 
 ## Computer Use & Browser Use
 - Anthropic Computer Use
