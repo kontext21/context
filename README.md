@@ -48,6 +48,24 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 - [Proxy 1.0](https://www.producthunt.com/posts/proxy-1-0)
 - OpenAI Operator
 
+## Logging/Rewind/Recall
+   - Microsoft Recall
+   - Apple [on screen content](https://developer.apple.com/documentation/appintents/making-onscreen-content-available-to-siri-and-apple-intelligence)
+   - [Serval Open source alternatives for Recall/Logging](https://github.com/search?q=recall&type=repositories&s=stars&o=desc)
+       - [OpenRecall](https://github.com/openrecall/openrecall) Python OS+ privacy first alternative to WIndows 1,800 stars
+       - [TotalRecall](https://github.com/xaitax/TotalRecall) access Windows 11 recall data 2,000 stars
+       - [Rem Recall](https://github.com/jasonjmcghee/rem) on Mac 2,300 stars
+       - [Windrecorder](https://github.com/yuka-friends/Windrecorder) 3,000 stars
+       - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get… 8,800 stars
+## OCR
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox)
+- [LLama-OCR](https://news.ycombinator.com/item?id=42154410)
+- Visual to “structured”
+    - [Meta nougat](https://facebookresearch.github.io/nougat/)
+
+## Screen Recording / Remote Desktop sharing
+ - https://github.com/rdp/screen-capture-recorder-to-video-windows-free
+
 ## Benchmarking
 - https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/
 
