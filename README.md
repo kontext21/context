@@ -32,13 +32,30 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 
 # Interesting Links
 
-## (Computer Screen) Vision Models 
+## Capturing
+- [XCap](https://github.com/nashaofu/xcap)
+- [scap](https://github.com/CapSoftware/scap)
+- [screen_capture_lite](https://github.com/smasherprog/screen_capture_lite)
+
+## Processing
+- [vlm-run](https://github.com/vlm-run/vlm-run)
+
+## Memory 
+- [Model Context Protocol](https://github.com/modelcontextprotocol)
+
+## Vision Models 
 - [Google AI Studio Live](https://aistudio.google.com/live) to stream your screen  
 - Mistral Pixtral
 - OpenAI
 - Meta 3.2 Vision
 - https://github.com/microsoft/OmniParser & https://huggingface.co/microsoft/OmniParser-v2.0
 - [Phi-4-multimodal](https://techcommunity.microsoft.com/blog/educatordeveloperblog/welcome-to-the-new-phi-4-models---microsoft-phi-4-mini--phi-4-multimodal/4386037)
+- Qwen/Qwen2.5-VL
+
+## Document Models
+- https://landing.ai/agentic-document-extraction
+- https://docs.runpulse.com/introduction
+- OmniAI
 
 ## Computer Use & Browser Use
 - Anthropic Computer Use
@@ -47,6 +64,7 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 - [Nayla Browser](https://naylabrowser.com/)
 - [Proxy 1.0](https://www.producthunt.com/posts/proxy-1-0)
 - OpenAI Operator
+- Open Interpreter
 
 ## Logging/Rewind/Recall
    - Microsoft Recall
@@ -95,4 +113,4 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 ## APIs to other services 
  - Calendar, Contacts, etc.
  - Messages (Email & Chats)
- - Browser History  
+ - Browser History
