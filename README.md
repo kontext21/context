@@ -39,6 +39,7 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 
 ## Processing
 - [vlm-run](https://github.com/vlm-run/vlm-run)
+- [Unstructured-IO](https://github.com/Unstructured-IO)
 
 ## Memory 
 - [Model Context Protocol](https://github.com/modelcontextprotocol)
@@ -56,6 +57,7 @@ Microsoft's Office 97 Clippy "Are you writing a letter?" Was the right idea at t
 - https://landing.ai/agentic-document-extraction
 - https://docs.runpulse.com/introduction
 - OmniAI
+
 
 ## Computer Use & Browser Use
 - Anthropic Computer Use
